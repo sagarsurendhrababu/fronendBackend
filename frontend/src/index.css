@@ -1,0 +1,4 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+ul{list-style: none;}
+ul>li{background-color: rgb(141, 244, 141); width: 100%; display: flex; margin: 2px; padding: 5px;}
+ul>li>span{width: 100%;}
